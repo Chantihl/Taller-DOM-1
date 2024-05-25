@@ -1,0 +1,13 @@
+
+.italic-color {
+    color: green; /* Cambia 'green' por el color que prefieras */
+    font-style: italic;
+}
+
+.cumplido {
+    background-color: green;
+}
+
+.fallido {
+    background-color: red;
+}
